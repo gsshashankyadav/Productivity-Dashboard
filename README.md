@@ -27,3 +27,43 @@ A clean and minimal productivity dashboard built with **Next.js** and **Tailwind
 
 ## 📂 Project Structure
 
+productivity-dashboard/
+├── public/
+│ └── assets/ # images, icons (if any)
+├── src/
+│ ├── components/ # React components (Header, Planner, TaskList, Chart, etc.)
+│ ├── pages/
+│ │ ├── _app.js # App wrapper
+│ │ └── index.js # Main dashboard page
+│ └── styles/
+│ └── globals.css # Tailwind and custom CSS
+├── .gitignore
+├── package.json
+├── tailwind.config.js
+├── postcss.config.js
+├── next.config.js
+└── README.md
+
+---
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone the repository:
+
+```bash
+git clone https://github.com/gsshashankyadav/Productivity-Dashboard.git
+cd Productivity-Dashboard
+
+### 2️⃣ Install dependencies:
+
+```bash
+npm install
+
+### 3️⃣ Run the development server:
+
+```bash
+npm run dev
+
+---
+
+Visit http://localhost:3000 to view your dashboard.
