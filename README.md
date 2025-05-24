@@ -53,6 +53,7 @@ productivity-dashboard/
 ```bash
 git clone https://github.com/gsshashankyadav/Productivity-Dashboard.git
 cd Productivity-Dashboard
+```
 
 ### 2️⃣ Install dependencies:
 
